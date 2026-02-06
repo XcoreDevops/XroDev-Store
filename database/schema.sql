@@ -1,0 +1,1 @@
+-- SQL schema for setting up the database.

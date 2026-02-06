@@ -1,0 +1,1 @@
+// Component2 React Component code here.

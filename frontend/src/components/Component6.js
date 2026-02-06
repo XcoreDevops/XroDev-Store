@@ -1,0 +1,1 @@
+// Component6 React Component code here.

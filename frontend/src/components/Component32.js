@@ -1,0 +1,1 @@
+// Component32 React Component code here.
